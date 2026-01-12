@@ -1,6 +1,6 @@
 # Personal Expense Tracker
 
-This is a basic personal expense tracker implmeneted in Python. The ExpenseTracker class is designed to help users manage their personal finances by tracking expenses and monitoring spending against a set budget. It allows users to record their expenditures, categorize them, and see how much they are spending over time.
+This is a basic personal expense tracker implemented in Python. The ExpenseTracker class is designed to help users manage their personal finances by tracking expenses and monitoring spending against a set budget. It allows users to record their expenditures, categorize them, and see how much they are spending over time.
 
 · The ExpenseTracker class is designed to manage personal expenses using a pandas DataFrame to store details like ID, Date, Description, Amount, and Category.
 
